@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931720285163",
+    "firebase_url": "https://selfdrive-abc5d.firebaseio.com",
+    "project_id": "selfdrive-abc5d",
+    "storage_bucket": "selfdrive-abc5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931720285163:android:2a5b2e98e5f8707c",
+        "android_client_info": {
+          "package_name": "com.longdrivecars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931720285163-irkm2gn9avbce8ibvh3k216iv3os5pqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.longdrivecars",
+            "certificate_hash": "380e4f9bdc528eada165d3003ba9ea35c9b1dd94"
+          }
+        },
+        {
+          "client_id": "931720285163-hpndk0nsleghvsc1me3io4k1l1hsj9fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqIZjFI_XlUonQ2mGlwZp-lQHLu6DOXac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931720285163-hpndk0nsleghvsc1me3io4k1l1hsj9fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+{
+    "CarData":[{
+        "Model":"Ford EcoSport",
+        "Id":"1",
+        "uri":"",
+        "extraKM":12
+    },{
+        "Model":"Hyundai Grand i10",
+        "Id":"1",
+        "uri":"",
+        "extraKM":8
+    }]
+}
